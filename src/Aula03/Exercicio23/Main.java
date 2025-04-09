@@ -1,4 +1,4 @@
-package Exercicio23;
+package Aula03.Exercicio23;
 
 import java.util.Scanner;
 

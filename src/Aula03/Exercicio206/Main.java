@@ -1,4 +1,4 @@
-package Exercicio206;
+package Aula03.Exercicio206;
 
 import java.util.Scanner;
 
