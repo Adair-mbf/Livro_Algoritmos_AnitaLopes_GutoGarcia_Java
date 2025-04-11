@@ -1,4 +1,4 @@
-package Aula03.Exercicio16;
+package Aula03.Algoritmo16;
 
 public class Main {
     public static void main(String[] args) {

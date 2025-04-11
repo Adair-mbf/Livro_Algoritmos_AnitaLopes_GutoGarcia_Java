@@ -1,4 +1,4 @@
-package Aula03.Exercicio54;
+package Aula03.Algoritmo54;
 
 import java.util.Scanner;
 
